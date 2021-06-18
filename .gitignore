@@ -11,8 +11,5 @@
 /.gradle
 /build
 /gradle
-/build.gradle
-/gradlew.bat
-/gradlew
 /HELP.md
-/settings.gradle
+
